@@ -22,7 +22,7 @@
     
     self.navigationItem.title = @"测试";
     
-    self.view.backgroundColor = [UIColor redColor];
+    self.view.backgroundColor = [UIColor grayColor];
 }
 
 - (IBAction)action:(UIButton *)sender{
