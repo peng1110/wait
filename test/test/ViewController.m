@@ -18,6 +18,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
+    
+    
+    self.navigationItem.title = @"测试";
+    
+    self.view.backgroundColor = [UIColor redColor];
 }
 
 - (IBAction)action:(UIButton *)sender{
